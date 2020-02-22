@@ -1,0 +1,2 @@
+# AtcoderGetScheduleProgram
+Atcoderからコンテスト情報をGoogleカレンダーに追記するためのプログラム
